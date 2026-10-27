@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "github": "AcideFluorhydrique"
+  },
+  "description": "Forkray F-Droid",
+  "deploy": {
+    "repo": "AcideFluorhydrique/v2rayNG",
+    "branch": "gh-pages",
+    "build": "",
+    "output": "."
+  }
+}
